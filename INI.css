@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	margin-bottom: 1%;
+	font-size: 315%;
+}
+body{
+	font-family: Roboto, Arial, sans-serif;
+	background-image: url("Imagens/tecnologia.JPG");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 0px -10%;
+}
+header{
+	width: 100%;
+}
+#palavras-cabeçalho{
+	margin-left: 31%;
+	color: #FD6925;
+	margin-top: 8%;
+}
+#slogan{
+	margin-left: 8%;
+	font-size: 195%;
+	color: #983F16;
+}
+.onu-link{
+	margin-top: 10%;
+	text-decoration: none;
+	color: #FD6925;
+	margin-left: 7.5%;
+	margin-bottom: 40%;
+	font-size: 180%;
+}
+.onu-link:hover{
+	color: #983F16;
+	text-decoration: underline;
+}
+#titulo1{
+	font-size: 280%;
+	color: #FD6925;
+	margin-left: 2%;
+}
+#paragrafo1{
+	font-size: 120%;
+	margin-left: 2%;
+	color: #983F16;
+}
+#linhahorizontal{
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 4%;
+}
+#video{
+	margin-top: 2%;
+	margin-right: 5%;
+	float: right;
+}
+#titulo-video{
+	margin-left: 2%;
+	font-size: 150%;
+	color: #FD6925;
+	margin-top: 2%;
+	float: left;
+}
+#logo{
+	float: left;
+	margin-top: 4%;
+}
+#paragrafo2{
+	float: left;
+	margin-left: 2%;
+	margin-top: 1%;
+	color: #983F16;
+}
+#linhahorizontal2{
+	width: 80%;
+	margin-top: 22%;
+	margin-left: 10%;
+}
+#titulo2{
+	margin-top: 4%;
+	font-size: 280%;
+	margin-left: 2%;
+	color: #FD6925;
+}
+#paragrafo3{
+	font-size: 120%;
+	margin-left: 2%;
+	color: #983F16;
+}
+#cocoverde{
+	width: 20%;
+	margin-top: 2%;
+	float: left;
+	margin-left: 2%;
+}
+#eolicas{
+	width: 22.55%;
+	margin-top: 2%;
+	margin-left: 15%;
+	float: center;
+}
+#carro{
+	width: 26.75%;
+	float: right;
+	margin-top: 2%;
+	margin-right: 2%;
+}
+#linhahorizontal3{
+	width: 80%;
+	margin-top: 4%;
+	margin-left: 10%;
+}
+#titulo3{
+	font-size: 280%;
+	color: #FD6925;
+	margin-top: 4%;
+	margin-left: 2%;
+}
+#paragrafo4{
+	margin-left: 2%;
+	font-size: 120%;
+	color: #983F16;
+	margin-top: 2%;
+}
+#notebook{
+	width: 30%;
+	margin-left: 32%;
+	margin-top: 2%;
+}
